@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-03-31T17:26:12Z</dc:date>
+		<meta property="dcterms:modified">2026-03-31T17:26:12Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,15 +46,14 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A human from the very distant future relates the whole history of mankind to a modern-day human.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The British author &lt;a href="https://standardebooks.org/ebooks/olaf-stapledon"&gt;Olaf Stapledon&lt;/a&gt; published his novel &lt;i&gt;Last and First Men&lt;/i&gt; in 1930. It was his first published work of fiction.&lt;/p&gt;
-			&lt;p&gt;The book is an extended thought-piece about the possible future history of humankind, extending from the 1930s forward into the extreme far future, hundreds of millions of years from today. It is supposedly narrated by one of the “Last Men” dictated to a modern-day “First Man” by a kind of time-travel telepathy. As time moves further and further into the future, Stapledon gives us more and more of an overview of vast stretches of time rather than detailing the lives of individual people. Many successive and wildly different versions of the human form have evolved (or been created) over this immense period.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Last and First Men&lt;/i&gt; is now considered a classic of the science fiction genre, and is considered to have been very influential in the field, influencing such writers as &lt;abbr&gt;C. S.&lt;/abbr&gt; Lewis, Brian Aldiss, James Blish, Arthur &lt;abbr&gt;C.&lt;/abbr&gt; Clarke and &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;&lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft&lt;/a&gt;. A multimedia adaptation was created in 2017 by Icelandic composer Jóhann Jóhannsson and subsequently turned into a film in 2018.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Last and First Men&lt;/i&gt; is an extended think piece about the possible future history of humankind, extending from the 1930s into the extreme far future, hundreds of millions of years from now. It’s supposedly narrated by one of the “Last Men,” and dictated to a modern-day “First Man” by a kind of time-travel telepathy. As time moves further and further into the future, Stapledon switches to overviews of vast stretches of time rather than detailing the events in the lives of individual people. As the march of time progresses over an immense period, many successive and wildly different versions of the human form evolve—or are created.&lt;/p&gt;
+			&lt;p&gt;This is &lt;a href="https://standardebooks.org/ebooks/olaf-stapledon"&gt;Olaf Stapledon’s&lt;/a&gt; first work of fiction, and is considered a classic of the science fiction genre, influencing writers like &lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt;, Brian Aldiss, James Blish, Arthur C. Clarke and &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;H. P. Lovecraft&lt;/a&gt;. A multimedia adaptation was created in 2017 by Icelandic composer Jóhann Jóhannsson and subsequently turned into a film in 2018.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20200531</dc:source>
 		<dc:source>https://archive.org/details/bwb_ks-384-312</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">115372</meta>
+		<meta property="se:reading-ease.flesch">49.96</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Last_and_First_Men</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/olaf-stapledon_last-and-first-men</meta>
 		<dc:creator id="author">Olaf Stapledon</dc:creator>
@@ -87,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
