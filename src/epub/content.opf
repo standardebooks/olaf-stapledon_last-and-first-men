@@ -37,7 +37,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Last and First Men: A Story of the Near and Far Future</dc:title>
 		<meta property="file-as" refines="#fulltitle">Last and First Men</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Science Fiction</dc:subject>
 		<dc:subject id="subject-2">Human beings in literature</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
